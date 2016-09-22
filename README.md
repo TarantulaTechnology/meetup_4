@@ -61,7 +61,7 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjizOj
 YAML Ain’t Markup Language (YAML™) Version 1.2<br/>
 http://www.yaml.org/spec/1.2/spec.html
 
-## Misc. Links
+## Links
 
 IBM Blockchain<br/>
 https://github.com/IBM-Blockchain

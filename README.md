@@ -2,7 +2,7 @@
 
 ## Update on Hyperledger 
 
-1. Hyperledger
+1. Hyperledger<br/>
 https://github.com/hyperledger
 
 2. Fabric Java SDK Project Proposal

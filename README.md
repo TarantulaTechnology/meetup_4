@@ -29,6 +29,38 @@ https://github.com/olegabu/insurance-fronting
 5. Decentralized Energy Utility<br/>
 https://github.com/olegabu/decentralized-energy-utility
 
+## Required Tools
+
+GO<br/>
+https://golang.org/
+
+Git<br/>
+https://git-scm.com/downloads
+
+Docker<br/>
+https://www.docker.com/
+
+Vagrant<br/>
+https://www.vagrantup.com/
+
+VirtualBox<br/>
+https://www.virtualbox.org/
+
+Gerrit Introduction<br/>
+https://gerrit.hyperledger.org/r/Documentation/intro-quick.html
+
+Swagger<br/>
+http://swagger.io/
+
+Protocol Buffers Docs<br/>
+https://developers.google.com/protocol-buffers/
+
+Protocol Buffers on Github<br/>
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjizOje1aPPAhXCSSYKHR-uC1AQFggeMAA&url=https%3A%2F%2Fgithub.com%2Fgoogle%2Fprotobuf&usg=AFQjCNFXOxj2afKS7iSM3qDfc6MZM6hEAg&sig2=V39l1gLtzpl8r_TenE-kpA
+
+YAML Ain’t Markup Language (YAML™) Version 1.2<br/>
+http://www.yaml.org/spec/1.2/spec.html
+
 ## Misc. Links
 
 IBM Blockchain<br/>
@@ -83,39 +115,6 @@ https://github.com/hyperledger/fabric/blob/master/docs/protocol-spec.md#fabric
 <br/>https://github.com/hyperledger/fabric/blob/master/docs/images/top-multi-peer.png
 <br/>https://github.com/hyperledger/fabric/blob/master/docs/images/sec-sec-arch.png
 <br/>https://github.com/hyperledger/fabric/blob/master/docs/images/sec-memserv-components.png
-
-
-## Required Tools
-
-GO<br/>
-https://golang.org/
-
-Git<br/>
-https://git-scm.com/downloads
-
-Docker<br/>
-https://www.docker.com/
-
-Vagrant<br/>
-https://www.vagrantup.com/
-
-VirtualBox<br/>
-https://www.virtualbox.org/
-
-Gerrit Introduction<br/>
-https://gerrit.hyperledger.org/r/Documentation/intro-quick.html
-
-Swagger<br/>
-http://swagger.io/
-
-Protocol Buffers Docs<br/>
-https://developers.google.com/protocol-buffers/
-
-Protocol Buffers on Github<br/>
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjizOje1aPPAhXCSSYKHR-uC1AQFggeMAA&url=https%3A%2F%2Fgithub.com%2Fgoogle%2Fprotobuf&usg=AFQjCNFXOxj2afKS7iSM3qDfc6MZM6hEAg&sig2=V39l1gLtzpl8r_TenE-kpA
-
-YAML Ain’t Markup Language (YAML™) Version 1.2<br/>
-http://www.yaml.org/spec/1.2/spec.html
 
 IBM Learn Chaincode<br/>
 https://github.com/IBM-Blockchain/learn-chaincode

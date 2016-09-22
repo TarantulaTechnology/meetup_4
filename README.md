@@ -29,7 +29,7 @@ https://github.com/olegabu/insurance-fronting
 5. Decentralized Energy Utility
 https://github.com/olegabu/decentralized-energy-utility
 
-Misc. Links
+## Misc. Links
 
 IBM Blockchain
 https://github.com/IBM-Blockchain
